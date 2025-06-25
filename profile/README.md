@@ -33,7 +33,7 @@ We specialize in:
 | Name                  | Position                               | GitHub Profile                                       |
 |-----------------------|----------------------------------------|------------------------------------------------------|
 | **Abhay Vijayan**     | Chief Executive Officer (CEO)          | [@abhayminer01](https://github.com/abhayminer01)     |
-| **Akhilesh**          | Chief Technology Officer (CTO)         | [@magiscurra](https://github.com/magiscurra)         |
+| **Akhilesh**          | Chief Technical Officer (CTO)         | [@magiscurra](https://github.com/magiscurra)         |
 | **Abdulla Al Raji**   | Chief Marketing Officer (CMO)          | [@abduuiii](https://github.com/abduuiii)             |
 | **Ebi Mohan**         | Chief Information Officer (CIO)        | [@mikey-1986](https://github.com/mikey-1986)         |
 | **Abhijith Sudarsan** | Chief Human Resources Officer (CHRO)   | [@abhiabhijith01](https://github.com/abhiabhijith01) |
