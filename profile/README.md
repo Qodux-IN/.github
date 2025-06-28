@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=28&duration=3000&pause=1000&color=3F3FFF&center=true&vCenter=true&multiline=true&width=600&height=90&lines=Welcome+to+Qodux;Solutions+for+Every+Technical+Need" alt="Typing SVG />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=28&duration=3000&pause=1000&color=3F3FFF&center=true&vCenter=true&multiline=true&width=600&height=90&lines=Welcome+to+Qodux;Solutions+for+Every+Technical+Need" alt="Typing SVG" />
 </div>
 
 ---
