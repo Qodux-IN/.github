@@ -37,6 +37,7 @@ We specialize in:
 | **Abdulla Al Raji**   | Chief Marketing Officer (CMO)          | [@abduuiii](https://github.com/abduuiii)             |
 | **Ebi Mohan**         | Chief Information Officer (CIO)        | [@mikey-1986](https://github.com/mikey-1986)         |
 | **Abhijith Sudarsan** | Chief Human Resources Officer (CHRO)   | [@abhiabhijith01](https://github.com/abhiabhijith01) |
+| **Ardra S** | Public Relationship Officer (PRO) | [@ardra](https://github.com/ardra-sly) |
 
 > 💼 Our leadership is committed to innovation, quality, and meaningful digital impact.  
 > 🙌 **We're always open to new minds joining our journey.**
