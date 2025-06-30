@@ -4,7 +4,7 @@
 
 ---
 
-### 🌐 About U
+### 🌐 About Us
 
 **Qodux** is your one-stop destination for solving every technical challenge with elegance, expertise, and efficiency.
 
